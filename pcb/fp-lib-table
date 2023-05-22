@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "DEFCON_Jack")(type "KiCad")(uri "/home/dan/Code_Repositories/badge-2023-ce-goon/KiCad/Footprints/DEFCON_Jack.pretty")(options "")(descr ""))
+  (lib (name "GOON_text")(type "KiCad")(uri "/home/dan/Code_Repositories/badge-2023-ce-goon/KiCad/Footprints/GOON_text.pretty")(options "")(descr ""))
+)
